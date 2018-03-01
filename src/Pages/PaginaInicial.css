@@ -1,0 +1,23 @@
+/*.page-primeira-pagina {
+    width: 20%;
+    margin: 0 auto;
+}*/
+
+.titulo {
+    font-size: 35px;
+    color: #fff;
+    text-decoration: overline;
+}
+
+
+.personalizacaoButton {
+    /*margin-top: 40%;*/
+    background: #4caf50;
+    border: steelblue;
+    border-radius: 40px;
+    color: #fff;
+    width: 70%;
+    padding: 20px 0px 20px 0px;
+    font-size: 25px;
+    margin-top: calc(100vh - 200px);
+}

@@ -1,0 +1,30 @@
+/**
+Nome: Software GER;
+Autor: Alisson Burgrever;
+Data: 22/05/2017;
+*/
+
+.page-segunda-pagina table {
+    width: 100%;
+}
+
+.page-segunda-pagina table th {
+    color: white;
+    padding: 10px;
+}
+
+.page-segunda-pagina table td {
+    padding: 10px;
+}
+
+
+.page-segunda-pagina hr {
+    height: 2px; 
+    border: none; 
+    background-color: rgb(0, 0, 0);
+    margin-left: -40px; 
+}
+
+.page-segunda-pagina-conteudo {
+    margin-top: 40px;
+}

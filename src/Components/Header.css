@@ -1,0 +1,17 @@
+/**
+Nome: Software GER;
+Autor: Alisson Burgrever;
+Data: 22/05/2017;
+*/
+
+.components-header {
+    width: 100%;
+    height: 75px;
+}
+
+.components-header-fixed {
+    padding-top: 10px;
+    position: fixed;
+    width: 100%;
+    background: #4caf50;
+}

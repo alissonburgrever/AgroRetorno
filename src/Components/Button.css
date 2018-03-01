@@ -1,0 +1,17 @@
+/**
+Nome: Software GER;
+Autor: Alisson Burgrever;
+Data: 22/05/2017;
+*/
+
+.components-button {
+    border-radius: 10px;
+    color: #ffffff;
+    background-color: green;
+    padding: 5px;
+    min-width: 45%;
+    max-width: 200px;
+    border: 0px outset buttonface;
+    font-size: 15px;
+    text-transform: uppercase;  
+}
