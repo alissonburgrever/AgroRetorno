@@ -11,9 +11,10 @@ import Button from './Button'
 
 export default ({ children }) =>
     <div>
+        <label>Usuário</label>
         <Input class="larguraButton" />
         <Input />
-        <Button />
-        <Button />
+        <Button>Cadastrar-se</Button>
+        <Button>Entrar</Button>
         
     </div>
